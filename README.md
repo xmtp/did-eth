@@ -1,3 +1,12 @@
+![Status](https://img.shields.io/badge/Deprecated-brown)
+
+> [!CAUTION]
+> This repo is no longer maintained.
+
+For information about XMTP identities, see [Identity in XMTP](https://xmtp.org/identity).
+
+The documentation below is provided for historical reference only.
+
 # did-eth
 Evolution of did:ethr: https://github.com/uport-project/ethr-did
 
